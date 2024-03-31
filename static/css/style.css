@@ -1,0 +1,37 @@
+h1 {
+    color : darkblue;
+    font-size: 60px;
+}
+
+body{
+    background-color : #145DA0;
+}
+
+.bg-custom {
+    background-color: #0C2D48;
+}
+
+.text-darkblue {
+    color: #0C2D48; /* Dark blue color code */
+}
+
+.img-fluid {
+    border-radius: 15px; /* Same border radius as the container */
+}
+
+.btn-primary-custom {
+    background-color: #0C2D48;
+    border-color: #0C2D48; /* Optional: If you also want to change the border color */
+}
+
+.custom-form {
+    background-color:#B1D4E0 !important; /* Baby blue background color */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Customize submit button color */
+.custom-form .btn-primary {
+    background-color: #0C2D48; /* Dark blue submit button color */
+    border-color: #0C2D48; /* Dark blue border color */
+}
